@@ -1,0 +1,33 @@
+[v-cloak] {
+    display: none!important;
+} 
+ hr {
+    display: block; 
+    height: 1px;
+    border: 0; border-top: 1px solid #545454;
+    margin: 1em 0; padding: 0; 
+}
+.container {
+    min-width:70%!important;    
+    min-height:700px!important;
+}
+.filter-box { 
+    background-color:#1A202C;
+}
+.table-box {
+    border-radius: 5px!important;
+    background-color: #343a40;
+    min-height:100%!important;
+    overflow: hidden;
+}
+.page-link {
+    color: #fff!important;
+    background-color: #343a40!important;
+    border: 1px solid #292929!important;
+}
+
+.page-link:hover {
+    background-color: #fff!important;
+    color: #292929!important;
+    /* border: 1px solid #292929!important; */
+}
