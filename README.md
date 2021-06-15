@@ -30,3 +30,39 @@ DB_PASSWORD=
 
 I have changed all the IDs to ints for database performance.
 
+## Files I have Written
+
+# routes
+
+web.php  
+yordas_group_task.php  
+
+# Models
+
+Substance.php  
+TSDSubstanceList.php  
+ReachSVHCCandidSubstance.php  
+
+# Controllers
+
+- ApiController
+
+#views
+
+app.blade.php  
+index.blade.php  
+
+# Javascript (VueJS)
+
+app.js  
+dashboard.js  
+
+# CSS
+
+dashboard.css
+
+
+
+
+
+
