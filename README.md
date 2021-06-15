@@ -1,8 +1,7 @@
 # Task Two
-##
-Installation (PHP, NodeJS, and Composer Required)
+## Installation (PHP, NodeJS, and Composer Required)
 
-## Git Clone
+### Git Clone
 ```bash
 git clone https://github.com/CanisCyril/yordas_group_task.git
 ```
