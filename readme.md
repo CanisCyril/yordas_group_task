@@ -23,7 +23,7 @@ git clone https://github.com/CanisCyril/yordas_group_task.git
 DB_CONNECTION=mysql  
 DB_HOST=127.0.0.1  
 DB_PORT=3306  
-DB_DATABASE=yordas_group_db
+DB_DATABASE=yordas_group_db  
 DB_USERNAME=root  
 DB_PASSWORD=  
 
