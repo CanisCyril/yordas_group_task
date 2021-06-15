@@ -17,17 +17,16 @@ git clone https://github.com/CanisCyril/yordas_group_task.git
 9. Run the command: php artisan serve
 10. Follow the localhost link provided (127.0.0.1:8000).
 
+# Database Settings
 
-#Database Settings
+DB_CONNECTION=mysql  
+DB_HOST=127.0.0.1  
+DB_PORT=3306  
+DB_DATABASE=yordas_group_db  
+DB_USERNAME=root  
+DB_PASSWORD=  
 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=yordas_group_db
-DB_USERNAME=root
-DB_PASSWORD=
-
-#Database Changes
+# Database Changes
 
 I have changed all the IDs to ints for database performance.
 
