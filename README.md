@@ -1,17 +1,34 @@
+#Task Two
 ##
 Installation (PHP, NodeJS, and Composer Required)
 
+## Git Clone
+```bash
 git clone https://github.com/CanisCyril/yordas_group_task.git
+```
 
 1. Run terminal as administrator (may cause issues if not ran as admin).
 2. Path to project folder.
 3. Run the command: composer install
 4. Run the command: npm install
 5. Run the command: npm run dev
-6. Find .env file and setup database settings.
-7. Run the command: php artisan serve
-8. Follow the localhost link provided (127.0.0.1:8000).
+6. Rename .env.example to .env.
+7. Run the command: php artisan key:generate
+8. Configure database settings. (Shown below)
+9. Run the command: php artisan serve
+10. Follow the localhost link provided (127.0.0.1:8000).
+
+
+#Database Settings
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=yordas_group_db
+DB_USERNAME=root
+DB_PASSWORD=
 
 #Database Changes
 
 I have changed all the IDs to ints for database performance.
+
