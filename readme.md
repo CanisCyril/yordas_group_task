@@ -1,5 +1,5 @@
 # Task Two
-## Installation (PHP, NodeJS, and Composer Required)
+## Installation (PHP, NodeJS, and Composer Required - Ensure these are installed)
 
 ### Git Clone
 ```bash
