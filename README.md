@@ -61,6 +61,9 @@ I have changed all the IDs to ints for database performance.
 
 - dashboard.css
 
+### Webpack
+
+- webpack.mix.js
 
 
 
