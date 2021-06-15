@@ -34,14 +34,14 @@ I have changed all the IDs to ints for database performance.
 
 ### routes
 
-web.php  
-yordas_group_task.php  
+- web.php  
+- yordas_group_task.php  
 
 ### Models
 
-Substance.php  
-TSDSubstanceList.php  
-ReachSVHCCandidSubstance.php  
+- Substance.php  
+- TSDSubstanceList.php  
+- ReachSVHCCandidSubstance.php  
 
 ### Controllers
 
@@ -49,17 +49,17 @@ ReachSVHCCandidSubstance.php
 
 ### Views
 
-app.blade.php  
-index.blade.php  
+- app.blade.php  
+- index.blade.php  
 
-## Javascript (VueJS)
+### Javascript (VueJS)
 
-app.js  
-dashboard.js  
+- app.js  
+- dashboard.js  
 
 ### CSS
 
-dashboard.css
+- dashboard.css
 
 
 
